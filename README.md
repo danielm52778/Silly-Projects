@@ -17,4 +17,5 @@ A quick analysis from a recent trip to Disneyland that tracked the estimated wai
 four bar graphs and a table. One bar graph with the data combined from all three days, and the other three a breakdown of each individual day. Lastly, a table with a small summary of statistics calculated from the data. 
 
 ![CombinedBarGraph](https://github.com/user-attachments/assets/7e789644-2c5e-4b2e-97dc-bd216c378e8a)
+_(Example of actual output)_
 
