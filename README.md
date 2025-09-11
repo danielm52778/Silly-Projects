@@ -10,3 +10,8 @@ handles user input, and a multi-page layout.
 - Simple layout
 - Interactive
 - Basic input validation
+
+**2. Disneyland Wait Time Analysis**
+
+A quick analysis from a recent trip to Disneyland that tracked the estimated wait time vs. the actual wait time experienced. The analysis consists of 
+bar graphs comparing the estimated and actual wait times, as well as a table with a short summary of the data. 
