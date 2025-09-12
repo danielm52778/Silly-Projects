@@ -19,3 +19,15 @@ four bar graphs and a table. One bar graph with the data combined from all three
 ![CombinedBarGraph](https://github.com/user-attachments/assets/7e789644-2c5e-4b2e-97dc-bd216c378e8a)
 _(Example of actual output)_
 
+Here are the commands for running this project through a docker container:
+
+```docker pull danielm52778/wait-time-analysis:latest```
+
+
+macOS/Linux
+
+```docker run --rm -v "$(pwd)/output":/app/output danielm52778/wait-time-analysis:latest```
+
+Windows
+
+```docker run --rm -v "%cd%/output":/app/output danielm52778/wait-time-analysis:latest```
