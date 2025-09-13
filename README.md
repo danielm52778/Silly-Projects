@@ -16,10 +16,11 @@ handles user input, and a multi-page layout.
 A quick analysis from a recent trip to Disneyland that tracked the estimated wait time vs. the actual wait time experienced. The file output consists of 
 four bar graphs and a table. One bar graph with the data combined from all three days, and the other three a breakdown of each individual day. Lastly, a table with a small summary of statistics calculated from the data. 
 
-![CombinedBarGraph](https://github.com/user-attachments/assets/7e789644-2c5e-4b2e-97dc-bd216c378e8a)
 _(Example of actual output)_
+![CombinedBarGraph](https://github.com/user-attachments/assets/7e789644-2c5e-4b2e-97dc-bd216c378e8a)
 
-Here are the commands for running this project through a docker container:
+
+To run this for yourself using docker: 
 
 ```docker pull danielm52778/wait-time-analysis:latest```
 
@@ -31,3 +32,5 @@ macOS/Linux
 Windows
 
 ```docker run --rm -v "%cd%/output":/app/output danielm52778/wait-time-analysis:latest```
+
+_Expected output: 4 bar charts and 1 table in a folder named 'output'_
