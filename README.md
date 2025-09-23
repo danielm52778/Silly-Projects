@@ -5,11 +5,6 @@
 A simple app that can guess your age with just a single question. The app uses a simple GUI built in Python using the Tkinter library and 
 handles user input, and a multi-page layout.
 
-**Key Features:**
-
-- Simple layout
-- Interactive
-- Basic input validation
 
 **2. Disneyland Wait Time Analysis**
 
@@ -34,3 +29,10 @@ Windows
 ```docker run --rm -v "%cd%/output":/app/output danielm52778/wait-time-analysis:latest```
 
 _Expected output: 4 bar charts and 1 table in a folder named 'output'_
+
+
+**3. Milage Tracker (Ongoing)**
+
+An ongoing project to track milage and gas prices when I refuel. The tracker does not take into account variables such as road conditions, driving style, city vs. highway miles, etc... The output graphs visualize the correlation between MPG and daily average temperature (if any). MPG in the data is calculated by dividing the number of miles driven by a approximation of the number of gallons used to refill the tank. 
+
+![temp vs mpg](https://github.com/user-attachments/assets/32c263e3-3236-41df-9dd4-a2250a4efa5b)
