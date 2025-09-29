@@ -18,6 +18,6 @@ _(Example of actual output)_
 
 **3. Milage Tracker (Ongoing)**
 
-An ongoing project to track milage and gas prices when I refuel. The tracker does not take into account variables such as road conditions, driving style, city vs. highway miles, etc... Using plotly express, an interactive plot is generated.
+An ongoing project to track milage and gas prices when I refuel. The tracker does not take into account variables such as road conditions, driving style, city vs. highway miles, etc... Using plotly express, an interactive plot is generated and can be viewed in-browser by downloading the .html file. 
 
 <img width="1156" height="450" alt="newplot" src="https://github.com/user-attachments/assets/cad4ecd7-bcd1-424f-9dd2-c562d0022208" />
